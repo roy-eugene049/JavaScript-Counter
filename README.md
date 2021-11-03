@@ -1,3 +1,3 @@
-# web-platform-4fqbtn
+# JavaScript-counter-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-4fqbtn)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/Javascript-counter-app)
